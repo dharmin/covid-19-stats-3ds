@@ -1,6 +1,6 @@
 # COVID-19 Statistics for Nintendo 3DS
 
-Created in LUA using Lua Player Plus.'
+A homebrew created in LUA using Lua Player Plus.
 
 ## Installation
 Download the latest version of CIA from [Releases](https://github.com/dharmin/covid-19-stats-3ds/releases) and install it using FBI.
@@ -17,11 +17,17 @@ Download the latest version of CIA from [Releases](https://github.com/dharmin/co
 Press A to Exit
 
 ## Screenshots
+
+It's on my o3ds xl
 ### Banner and Icon
 <img src="https://i.imgur.com/zZKTsyC.png" width="400" alt="home" />
 
 ### Main Screen
 <img src="https://i.imgur.com/WXc4blg.png" width="400" alt="main" />
+
+## TODO
+- Use WHO's API for more reliable statistics
+- Add a touch screen menu on bottom screen to select countries
 
 ## Credits
 - [Rinnegatamante](https://github.com/Rinnegatamante) for his LUA interpreater for 3DS: [Lua Player Plus](https://github.com/Rinnegatamante/lpp-3ds)
